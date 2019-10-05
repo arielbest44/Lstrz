@@ -14,7 +14,7 @@ echo '======================================================='
 echo '======================================================='
 echo -e $blue
 read -p "TEKAN ENTER YA BANGSAT " a;
-cd login
+cd Lstrz
 sleep 1
 echo "[+]=> Proses...";
 python edit.py
